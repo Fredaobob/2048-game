@@ -1,3 +1,4 @@
 Steps to run it:
-> pip install pygame (or sudo apt install python3-pygame)
-> python main.py
+> 1- pip install pygame (or sudo apt install python3-pygame)
+then: 
+> 2- python main.py
